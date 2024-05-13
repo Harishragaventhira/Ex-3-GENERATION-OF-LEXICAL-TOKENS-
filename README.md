@@ -1,6 +1,6 @@
 # Ex-3 GENERATION OF LEXICAL TOKENS USING C
-# Name: Akshai khanna D 
-# Register No: 212223040010
+# Name: HARISH S
+# Register No: 212223230072
 # Date:
 # AIM
 ## To write a C program to implement lexical analyzer to recognize a few patterns.
